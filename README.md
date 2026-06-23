@@ -23,8 +23,9 @@ Everything I make is built with AI coding agents. No traditional software backgr
 
 | Project | What it does |
 |---|---|
+| [🔬 ResearchPilot](https://github.com/pavelblank/ResearchPilot) | AI-native research platform for academics — ingest papers, extract insights, knowledge graphs, RAG chat, 12-AI engine failover |
+| [📓 ResearchNotebookLLM](https://github.com/pavelblank/ResearchNotebookLLM) | Private local NotebookLM alternative — upload PDFs, URLs & YouTube, ask questions grounded in your sources, works offline |
 | [💰 Finance Hub](https://github.com/pavelblank/finance-hub) | Self-hosted personal finance dashboard — multi-currency (AUD/USD/BDT), investments, recurring transactions, AI chat |
-| [🔬 ResearchPilot](https://github.com/pavelblank/ResearchPilot) | AI-native research platform for academics — ingest papers, extract insights, knowledge graphs, RAG chat |
 
 ---
 
