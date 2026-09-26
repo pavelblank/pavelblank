@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1565C0&center=true&vCenter=true&width=500&lines=Hey%2C+I%27m+Pavel+%F0%9F%91%8B;I+build+tools+with+AI;Self-hosted+%C2%B7+Local-first+%C2%B7+Open-source" alt="Typing SVG" />
 
@@ -26,6 +26,9 @@ Everything I make is built with AI coding agents. No traditional software backgr
 | [🔬 ResearchPilot](https://github.com/pavelblank/ResearchPilot) | AI-native research platform for academics — ingest papers, extract insights, knowledge graphs, RAG chat, 12-AI engine failover |
 | [📓 ResearchNotebookLLM](https://github.com/pavelblank/ResearchNotebookLLM) | Private local NotebookLM alternative — upload PDFs, URLs & YouTube, ask questions grounded in your sources, works offline |
 | [💰 Finance Hub](https://github.com/pavelblank/finance-hub) | Self-hosted personal finance dashboard — multi-currency (AUD/USD/BDT), investments, recurring transactions, AI chat |
+| [🤖 SocialAI Agent](https://github.com/pavelblank/socialai-agent) | Self-hosted content agent — writes, voices, renders and publishes video/image/text to your own social accounts on a schedule, 100% local generation, $0/month |
+| [🐾 BLANKPET](https://github.com/pavelblank/blankpet) | A desktop pet that actually looks after you — task follow-ups, alarms, live weather, moods and optional local AI, runs fully offline |
+| [📝 MNOTE](https://github.com/pavelblank/mnote) | Self-hosted, mobile-first note-taking app with tasks and a schedule — deleted notes always leave a recoverable trail, never silently gone |
 
 ---
 
